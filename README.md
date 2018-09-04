@@ -1,5 +1,9 @@
-# CodePath
+## CodePath
+
+###Description
 Pre Work Project for CodePath.
+My First CodePath project that does simple tasks like changing text and background colors. Also it takes user input of string and changes the on Screen text.
+
 
 GIF of the App:
 <a href="https://imgflip.com/gif/2h79ts"><img src="https://i.imgflip.com/2h79ts.gif" title="made at imgflip.com"/></a>
