@@ -1,6 +1,9 @@
 # CodePath
 Pre Work Project for CodePath.
 
+GIF of the App:
+<a href="https://imgflip.com/gif/2h79ts"><img src="https://i.imgflip.com/2h79ts.gif" title="made at imgflip.com"/></a>
+
 User Stories Completed:
 [x] 1.User sees custom text in a label - Hello from {name}!
 [x] 2.User see custom background color.
