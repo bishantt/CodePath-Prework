@@ -18,7 +18,7 @@ Optional Stories Completed:
 
         [x]a. User can enter text into a text field using the keyboard.
         [x]b. User can tap the “Change text string” button to update the label with the text from the text field.
-        [x]. If the text field is empty, update label with default text string.
+        [x]c. If the text field is empty, update label with default text string.
         
         
         
